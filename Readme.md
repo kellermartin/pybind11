@@ -4,7 +4,7 @@ The example is kept small and concise and shows the implementation of a very sim
 an initial number that is provided in the constructor call of the object.
 
 
-## Install Prerequisites
+## Install prerequisites
 Install pybind11 using apt
 
 ```console
