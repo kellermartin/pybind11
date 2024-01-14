@@ -1,7 +1,7 @@
 # Creating a c++ python module using pybind11
 The following small example demonstrates how a class in c++ can be exposed as a python module.
 The example is kept small and concise and shows the implementation of a very simple Calculator that is able to add and subtract to 
-an initial number that is provided in the contructor call of the object.
+an initial number that is provided in the constructor call of the object.
 
 
 ## Install Prerequisites
