@@ -1,4 +1,3 @@
-// your_cpp_library.cpp
 #include <pybind11/pybind11.h>
 
 class Calculator {

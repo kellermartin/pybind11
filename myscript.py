@@ -1,6 +1,3 @@
-#import sys
-#sys.path.append("/home/keller/pybind/build")
-# your_module.py
 import Calculator
 
 # Create an instance of the Calculator class
